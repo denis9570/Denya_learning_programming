@@ -1,14 +1,35 @@
 
 
+#  я остановился на lists.
+
+
+# apple = 'Pneumonoultramicroscopicsilicovolcanoconiosis'
+# print(len(apple))
+
+
+# word = 'Python'
+#
+#
+# print(word[:2])  # character from the beginning to position 2 (excluded)
+#
+# print(word[4:])  # characters from position 4 (included) to the end
+#
+# print(word[-2:]) # characters from the second-last (included) to the end
+#
+# print('apple' + word)
 
 
 
 
-
-
-
-
-print('app' 'le,' 'pe' 'ar')
+# apple = 'hidrabutilhlorid'
+# print(apple[3:8])
+#
+#
+#
+# print (3 * 'grand' +'father')
+#
+#
+# print('app' + 'le,' 'pe' + 'ar')
 
 
 
